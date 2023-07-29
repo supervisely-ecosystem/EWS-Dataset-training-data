@@ -1,0 +1,14 @@
+{
+    "classes": [
+        {
+            "title": "Wheat",
+            "shape": "bitmap",
+            "color": "#9013FE",
+            "geometry_config": {},
+            "id": 12071,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
