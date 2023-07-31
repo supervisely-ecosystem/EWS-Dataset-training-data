@@ -1,6 +1,6 @@
 {
     "name": "Train dataset - Eschikon Wheat Segmentation (EWS)",
-    "description": "Set of images for training and validation",
+    "description": "Images of wheat for training and validation",
     "type": "project",
     "categories": ["import", "images", "project"],
     "icon": "https://github.com/supervisely-ecosystem/EWS-Dataset-training-data/assets/119248312/e4498bca-54b1-48c5-8856-8199b52ff366",
