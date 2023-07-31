@@ -32,7 +32,7 @@ Within the scope of [this work](https://www.frontiersin.org/articles/10.3389/fpl
 
 > *Example: Overview of variance in images from the Eschikon wheat segmentation (EWS) dataset of image*
 
-To generate a training set, images of the wheat canopies between emergence and stem elongation were selected. **!!!In order to ensure a balanced sampling of the different imaging situations, the subsampling strategy was used.!!!** Different growth stages with respect to plant pixel ratios with respect to soil can be seen in *Example*. The resulting subset of 190 RGB images was cropped into patches of 350 × 350 pixels and then manually annotated in form of binary masks for plants and soil, respectively. The crop size of 350 × 350 pixels was determined so that atleast two wheat rows are visible in the image. 
+To generate a training set, images of the wheat canopies between emergence and stem elongation were selected. In order to ensure a balanced sampling of the different imaging situations, the subsampling strategy was used. Different growth stages with respect to plant pixel ratios with respect to soil can be seen in *Example*. The resulting subset of 190 RGB images was cropped into patches of 350 × 350 pixels and then manually annotated in form of binary masks for plants and soil, respectively. The crop size of 350 × 350 pixels was determined so that atleast two wheat rows are visible in the image. 
 
 The presented dataset is the first dataset to cover the same field over multiple years with a number of different lighting conditions scenarios. 
 
