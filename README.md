@@ -7,7 +7,6 @@
 <p align="center">
 
   <a href="#overview">Overview</a> •
-  <a href="#download">Download</a> •
   <a href="#example">Example</a> •
   <a href="#license">License</a>
   
@@ -39,10 +38,6 @@ The presented dataset is the first dataset to cover the same field over multiple
 <img src="https://github.com/supervisely-ecosystem/EWS-Dataset-training-data/assets/119248312/7e06e1d7-4140-42ac-96ed-f6d6395b9b5d"/>
 
 >Eschikon wheat segmentation (EWS) dataset overview of the distribution of direct and diffuse light with respect to the number of different days.
-
-# Download
-
-Direct download: [tar archive](https://github.com/supervisely-ecosystem/EWS-Dataset-training-data/releases/download/v0.9.0/Train.tar)
 
 # Example
 
