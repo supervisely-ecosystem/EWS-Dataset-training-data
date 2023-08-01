@@ -14,8 +14,8 @@
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/EWS-Dataset-training-data)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/EWS-Dataset-training-data.png)](https://supervise.ly)
-[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/EWS-Dataset-training-data.png)](https://supervise.ly)
+[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/ews-dataset-training-data.png)](https://supervise.ly)
+[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/ews-dataset-training-data.png)](https://supervise.ly)
 
 # Train dataset - Eschikon Wheat Segmentation (EWS) 
 
